@@ -1,0 +1,4 @@
+sdv==0.18.0
+streamlit==1.23.1
+pandas==1.1.4
+faker==14.2.1
