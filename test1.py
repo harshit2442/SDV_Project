@@ -30,7 +30,6 @@ def main():
         # Show the columns from the sample data in a table
         st.subheader("Sample Data Columns:")
         st.dataframe(sample_data.columns)
-
         # Locale selection
         locale = st.selectbox("Select Locale:", ["en_US", "en_GB", "es_ES", "fr_FR", "de_DE", "en_IN"])
 
