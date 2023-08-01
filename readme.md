@@ -42,4 +42,4 @@ You can install the required packages using the following command:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [License](LICENSE).
